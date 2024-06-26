@@ -67,7 +67,7 @@
         </a>
         <p>
             Progetto backend realizzato con Vite e Laravel 10.
-            Utilizzando il paradigma MVC (Model | View | Controller) ho realizzato le CRUD necessarie alla gestione di creazione, salvataggio, modifica e cancellazione, dal database, dei Comics. Ho inoltre realizzato con Blade le varie Views per la visualizzazione dei form di creazione e modifica, la show di ogni Comic e una index da cui gestire tutti i Comics presenti nel database. L'immagine rappresenta la welcome page.
+            Utilizzando il paradigma MVC (Model | View | Controller) ho realizzato le CRUD necessarie alla gestione di creazione, salvataggio, modifica e cancellazione, dal database, dei Comics. Ho inoltre realizzato con Blade le varie Views per la visualizzazione dei form di creazione e modifica, la show di ogni Comic e una interfaccia da cui gestire tutti i Comics presenti nel database. L'immagine rappresenta la welcome page.
         </p>
     </div>
 </div>
