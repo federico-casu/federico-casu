@@ -52,7 +52,7 @@
     <h4><a href="https://github.com/federico-casu/fp_team6">BoolBnB</a></h4>
     <div>
         <a href="https://github.com/federico-casu/fp_team6">
-            <img src="https://media.licdn.com/dms/image/D4D2DAQHsBjynBHOx9Q/profile-treasury-image-shrink_800_800/0/1719325039933?e=1720008000&v=beta&t=2XdPyASTTmeBmDsNK8Aihg0fnbc6UMlU1lTXWX-mgfU">
+            <img src="https://media.licdn.com/dms/image/D4D2DAQHsBjynBHOx9Q/profile-treasury-image-shrink_800_800/0/1719325039933?e=1721044800&v=beta&t=ptiq2Oafub68J1a5RPsWaF1ZSl_3-bbkx_z2HD8y6No">
         </a>
         <p>
             Web App per la ricerca e la gestione degli affitti di appartamenti. Il frontend è stato realizzato con Vue 3 e il routing delle pagine gestito con vue router. Le ricerche sono state implementate con chiamate API ed i risultati si ottengono senza alcun refresh. Il backend realizzato con Laravel 10 ha un'interfaccia di gestione degli appartamenti che permette di aggiungere, rimuovere e modificare appartamenti salvati in un database relazionale. Altre features: localizzazione geografica, pagamenti.
@@ -63,7 +63,7 @@
     <h4><a href="https://github.com/federico-casu/laravel-dc-comics">DC Comics</a></h4>
     <div>
         <a href="https://github.com/federico-casu/laravel-dc-comics">
-            <img src="https://media.licdn.com/dms/image/D4D2DAQGhPLJX_80tUQ/profile-treasury-image-shrink_800_800/0/1713203163200?e=1720008000&v=beta&t=R92ES1J_A00MOYCGtPunVnuvdD_Qx8uRywnfL3pqaAE">
+            <img src="https://media.licdn.com/dms/image/D4D2DAQGhPLJX_80tUQ/profile-treasury-image-shrink_800_800/0/1713203163200?e=1721044800&v=beta&t=aTDLIdXbbSP6GFpRQfr8twl6UAeVrx1hPMdxpRg_F8Y">
         </a>
         <p>
             Progetto backend realizzato con Vite e Laravel 10.
@@ -75,7 +75,7 @@
     <h4><a href="https://github.com/federico-casu/vite-boolflix">Boolflix</a></h4>
     <div>
         <a href="https://github.com/federico-casu/vite-boolflix">
-            <img src="https://media.licdn.com/dms/image/D4D2DAQFHkBcEfsc7Lw/profile-treasury-image-shrink_800_800/0/1713186955504?e=1720008000&v=beta&t=fB62VQnrOZXDfDHEYbuz4nasH9o-jemGNBM41uJXEqU">
+            <img src="https://media.licdn.com/dms/image/D4D2DAQFHkBcEfsc7Lw/profile-treasury-image-shrink_800_800/0/1713186955504?e=1721044800&v=beta&t=EP5WbDaZSlMeeG11e-eVDrvvMCYVwnaX8C2OszDpbA4">
         </a>
         <p>
             Web App che cerca di rifarsi alla versione web di Netflix realizzata utilizzando Vite, Vue e Scss. Utilizzando axios ho effettuato delle chiamate API al database 'themoviedb' per recuperare i film e le serie tv. Ho inoltre implementato la possibilità di effettuare ricerche, filtrare per genere e ho suddiviso l'app in una sezione Movies e una TV Shows. Per quanto riguarda ogni singola 'card' ho implementato un comportamento 'flip' al click, che rivela i dettagli dell'elemento.
@@ -86,7 +86,7 @@
     <h4><a href="https://github.com/federico-casu/proj-html-vuejs">RaxG eSports & gaming</a></h4>
     <div>
         <a href="https://github.com/federico-casu/proj-html-vuejs">
-            <img src="https://media.licdn.com/dms/image/D4D2DAQGrqpK4OuR8cw/profile-treasury-image-shrink_800_800/0/1713181479798?e=1720008000&v=beta&t=wNohz_SXTSaHrVo2XbnaOrlkf5Mni0U16MzW88XT8mg">
+            <img src="https://media.licdn.com/dms/image/D4D2DAQGrqpK4OuR8cw/profile-treasury-image-shrink_800_800/0/1713181479798?e=1721044800&v=beta&t=PuqfiwwlaNRoCC74NHL7Ll3s9uACFhWBxO_inyy8H6E">
         </a>
         <p>
             Sito vetrina realizzato con SCSS e Vue.js. Pensato per essere modulare, le sue sezioni infatti sono state pensate e realizzate come componenti in modo che il loro ordine possa essere variato a piacere. Alcune sezioni sono state dinamicizzate con comportamenti all'hover, al click e con sistemi di filtraggio dei contenuti realizzato tramite il rendering condizionale di Vue.js
