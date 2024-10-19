@@ -1,6 +1,6 @@
-<div>
+<!--<div>
     <img src="https://media.licdn.com/dms/image/D4D16AQGsL20sbCREjw/profile-displaybackgroundimage-shrink_350_1400/0/1713131953396?e=1724889600&v=beta&t=kYL_uoFjf53V5BI1vC9R-rsgHVdpDdkPRw3mF1KDm5A">
-</div>
+</div>-->
 
 <h1 align="center">Benvenuti nel mio GitHub<br>Mi chiamo Federico e sono uno sviluppatore web Full Stack 👨‍💻</h1>
 
