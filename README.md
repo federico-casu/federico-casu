@@ -27,6 +27,7 @@
             <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
             <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
             <img src="https://skillicons.dev/icons?i=idea" height="50" alt="intellij logo"  />
+            <img src="https://skillicons.dev/icons?i=phpstorm" height="50" alt="intellij logo"  />
         </div>
     </div>
     <div>
